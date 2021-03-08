@@ -6,8 +6,8 @@ import lombok.ToString;
 
 /**
  * 错误码
- * @author jiangfangyuan
- * @since 2019-07-17 14:32
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 @Data
 @EqualsAndHashCode

@@ -1,8 +1,8 @@
 package com.evan.foundation;
 
 /**
- * @author jiangfangyuan
- * @since 2020-06-11 11:05
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public interface CursorAble {
 

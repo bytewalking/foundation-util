@@ -15,8 +15,8 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author jiangfangyuan
- * @since 2019-09-09 11:44
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 @Slf4j
 public class LockClient {

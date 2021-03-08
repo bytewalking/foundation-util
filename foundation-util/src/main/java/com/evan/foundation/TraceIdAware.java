@@ -1,8 +1,8 @@
 package com.evan.foundation;
 
 /**
- * @author jiangfangyuan
- * @since 2019-07-28 14:41
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public interface TraceIdAware {
 

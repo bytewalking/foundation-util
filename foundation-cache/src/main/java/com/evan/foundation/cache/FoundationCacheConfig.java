@@ -1,9 +1,6 @@
 package com.evan.foundation.cache;
 
-import com.evan.foundation.util.LogUtil;
-import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -24,7 +21,7 @@ public class FoundationCacheConfig implements InitializingBean {
 
     @Override
     public void afterPropertiesSet() {
-
+        // 从阿波罗获取配置
     }
 
     public String getCacheSuffixConfig() {

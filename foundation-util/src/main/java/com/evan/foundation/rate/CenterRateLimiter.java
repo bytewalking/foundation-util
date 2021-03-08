@@ -7,8 +7,8 @@ import org.redisson.api.RRateLimiter;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author jiangfangyuan
- * @since 2020-06-11 14:19
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public class CenterRateLimiter implements RateLimiter {
 

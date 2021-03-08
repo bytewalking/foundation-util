@@ -4,8 +4,8 @@ import com.evan.foundation.EnvEnum;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author jiangfangyuan
- * @since 2019-09-05 11:24
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public class EnvUtil {
 

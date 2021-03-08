@@ -6,8 +6,8 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.concurrent.Callable;
 
 /**
- * @author jiangfangyuan
- * @since 2020-06-11 14:14
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 @Slf4j
 public class RateCallable<V> implements Callable<V> {

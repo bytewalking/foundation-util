@@ -5,8 +5,8 @@ import org.apache.commons.lang3.StringUtils;
 import java.net.InetAddress;
 
 /**
- * @author jiangfangyuan
- * @since 2019-09-09 15:51
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public class NetUtil {
 

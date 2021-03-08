@@ -3,8 +3,8 @@ package com.evan.foundation.statistic.metric;
 import java.util.concurrent.atomic.LongAdder;
 
 /**
- * @author jiangfangyuan
- * @since 2019-09-29 15:44
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public class MetricBucket {
 

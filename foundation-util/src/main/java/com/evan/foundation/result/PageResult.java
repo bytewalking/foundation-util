@@ -9,8 +9,8 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @author mayifan0701
- * @since 2020/3/3 12:33
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

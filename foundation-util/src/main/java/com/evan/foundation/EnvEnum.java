@@ -3,8 +3,8 @@ package com.evan.foundation;
 import lombok.Getter;
 
 /**
- * @author jiangfangyuan
- * @since 2019-09-05 11:24
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public enum EnvEnum {
 

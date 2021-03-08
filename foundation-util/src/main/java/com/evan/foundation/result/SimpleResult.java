@@ -10,8 +10,8 @@ import org.apache.commons.lang3.StringUtils;
 import java.io.Serializable;
 
 /**
- * @author jiangfangyuan
- * @since 2019-07-27 13:32
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 @Data
 @JsonIgnoreProperties(ignoreUnknown = true)

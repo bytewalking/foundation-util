@@ -10,8 +10,8 @@ import java.util.Map;
 /**
  * 系统异常
  *
- * @author jiangfangyuan
- * @since 2019-07-17 14:29
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public class CommonSystemException extends RuntimeException {
 

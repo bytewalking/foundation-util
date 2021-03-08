@@ -3,8 +3,8 @@ package com.evan.foundation.rate;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author jiangfangyuan
- * @since 2020-06-11 14:14
+ * @author evan
+ * @since 2021-03-08 18:09
  */
 public interface RateLimiter {
 
