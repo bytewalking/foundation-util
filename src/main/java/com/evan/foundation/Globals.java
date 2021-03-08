@@ -41,18 +41,6 @@ public class Globals {
      */
     public static String NUM_REG = "[0-9]*";
 
-    /**
-     * 球员默认头像
-     */
-    public static String DEFAULT_PHOTO = "http://gdc.hupucdn.com/nba/players/brand.png";
-    /**
-     * 球员默认大头像
-     */
-    public static final String DEFAULT_BIG_PHOTO = "http://gdc.hupucdn.com/nba/players/brand-big.png";
-
-    public static final String GDC_CDN_URL = "http://gdc.hupucdn.com";
-
-
     public static final String OPERATE_LOGGER = "OPERATE_LOGGER";
 
 
