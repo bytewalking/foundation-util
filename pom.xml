@@ -13,6 +13,7 @@
         <module>foundation-lock</module>
         <module>foundation-error</module>
         <module>foundation-util</module>
+        <module>foundation-cache</module>
     </modules>
 
     <properties>
@@ -113,6 +114,23 @@
                 <groupId>net.jodah</groupId>
                 <artifactId>expiringmap</artifactId>
                 <version>0.5.9</version>
+            </dependency>
+
+            <!--    innner dependence -->
+            <dependency>
+                <groupId>com.evan.foundation</groupId>
+                <artifactId>foundation-error</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.evan.foundation</groupId>
+                <artifactId>foundation-util</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.evan.foundation</groupId>
+                <artifactId>foundation-cache</artifactId>
+                <version>${project.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

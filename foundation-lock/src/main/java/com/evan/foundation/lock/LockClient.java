@@ -2,9 +2,9 @@ package com.evan.foundation.lock;
 
 import com.google.common.base.Joiner;
 import com.google.common.base.Stopwatch;
-import com.hupu.foundation.cache.CacheClient;
-import com.hupu.foundation.error.CommonSystemException;
-import com.hupu.foundation.util.*;
+import com.evan.foundation.cache.CacheClient;
+import com.evan.foundation.error.CommonSystemException;
+import com.evan.foundation.util.*;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.redisson.api.RLock;
