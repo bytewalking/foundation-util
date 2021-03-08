@@ -14,6 +14,7 @@
         <module>foundation-error</module>
         <module>foundation-util</module>
         <module>foundation-cache</module>
+        <module>foundation-validation</module>
     </modules>
 
     <properties>
